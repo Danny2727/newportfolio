@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -22,11 +22,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
-.App-link {
+/* .App-link {
   color: #61dafb;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +35,34 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.introduction {
+  background-color: #2272FF;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:  20px;
+}
+
+.nav{
+  background-color: black;
+  list-style: none;
+  text-align: right;
+  padding: 30px;
+}
+
+.nav-item{ 
+  display: inline;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+li a {
+  display: inline;
+  color: white;
+  padding: 30px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #2272FF;
 }
