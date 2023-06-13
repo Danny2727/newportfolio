@@ -19,19 +19,19 @@ export default function Resume() {
         //     </div>
         // </div>
         <div>
-            <div>
+            <div class="resume-text">
                 <h1 className='resume'>Resume</h1>
                 <div className='resume_text'>
-                    <h2> As a entry level developer, I am very passionate and dedicated to launching my career in the feild of software development.
+                    <h3> As a entry level developer, I am very passionate and dedicated to launching my career in the feild of software development.
                         I have recenlty completed my eduction at the University of Central Florida Fullstack development course. I am eager to display my development skills.
-                    </h2>
+                    </h3>
                 </div>
-                <h6>Print or Download My <a href="#resumepdf" onClick={handleclick}>Resume</a></h6>
+                <h6 className="resume-link">Print or Download My <a href="#resumepdf" onClick={handleclick}>Resume</a></h6>
 
                 {showPDF ? (  <div className="w-100">
                 <object aria-label="pdf resume" width="100%" height="800" data={PDF} type="application/pdf" />
             </div>):(<div>
-          <ul>
+          <ul className="skills">
             Front-end Proficiencies
             <li>HTML</li>
             <li>CSS</li>
@@ -41,7 +41,7 @@ export default function Resume() {
             <li>ReactJS</li>
             <li>Bootstrap</li>
           </ul>
-          <ul>
+          <ul className="skills">
             Back-end Proficiencies
             <li>APIs</li>
             <li>Node</li>

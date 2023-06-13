@@ -11,7 +11,7 @@ export default function Portfolio() {
     
     ]
     return (
-        <div className="d-flex">
+        <div className="cards">
         {projects.map((project) => (
           <Project project={project} key={"project=" + project.Name} />
         ))}

@@ -4,7 +4,7 @@ import Profile from '../assets/profile.JPG'
 export default function About() {
   return (
     <div class="introduction">
-    <h2>Developer Introduction</h2>
+    <h2 class="text">Developer Introduction</h2>
     <img id='profilepic' src={Profile} alt='profile'></img>
     <div class='about-text'>
         <p>

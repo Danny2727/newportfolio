@@ -38,13 +38,15 @@
 }
 
 .introduction {
-  background-color: #2272FF;
+  background-color: #957C3D;
   font-family: 'Times New Roman', Times, serif;
-  font-size:  20px;
+  font-size:  35px;
+  color: black;
 }
 
+
 .nav{
-  background-color: black;
+  background-color: #002349;
   list-style: none;
   text-align: right;
   padding: 30px;

@@ -13,7 +13,7 @@ export default function Project(props) {
     //   <a href={props.project.Repository}><img src={GitHub} className="github-image"></img></a>
     // </div>
 
-<div class="card" >
+<div class="card">
 <img src={require(`../assets/${props.project.Image}`)} class="card-img-top" alt={props.project.Name}/>
 <div class="card-body">
   <h5 class="card-title">{props.project.Name}</h5>
