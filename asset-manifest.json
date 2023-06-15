@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Danny2727/newportfolio/static/css/main.46a50ba4.css",
+    "main.js": "/Danny2727/newportfolio/static/js/main.a0d422a1.js",
+    "static/js/787.35fe7324.chunk.js": "/Danny2727/newportfolio/static/js/787.35fe7324.chunk.js",
+    "static/media/profile.JPG": "/Danny2727/newportfolio/static/media/profile.e57da573da5d1fe2cb74.JPG",
+    "static/media/HappyHour.png": "/Danny2727/newportfolio/static/media/HappyHour.0f2cac1b4ed2dbf720b0.png",
+    "static/media/The world studios (1).png": "/Danny2727/newportfolio/static/media/The world studios (1).53ba78c1e8d49cfdaa31.png",
+    "static/media/Donation.png": "/Danny2727/newportfolio/static/media/Donation.6b7065a84dff6f1264a2.png",
+    "static/media/Javapassword.png": "/Danny2727/newportfolio/static/media/Javapassword.39a17b36ac8f2226ccf9.png",
+    "static/media/Virtual-Calander.png": "/Danny2727/newportfolio/static/media/Virtual-Calander.69df641bbfce772efce5.png",
+    "static/media/resume .pdf": "/Danny2727/newportfolio/static/media/resume .7f45fe6339f6eff29f84.pdf",
+    "static/media/WebQuiz.png": "/Danny2727/newportfolio/static/media/WebQuiz.4778f835df5304d791f5.png",
+    "static/media/Virtual-Notetaker.png": "/Danny2727/newportfolio/static/media/Virtual-Notetaker.eebcbe27e67ce646bd04.png",
+    "static/media/WebBlog.png": "/Danny2727/newportfolio/static/media/WebBlog.f910edd6913ea6ab4e06.png",
+    "static/media/logo.svg": "/Danny2727/newportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Danny2727/newportfolio/index.html",
+    "main.46a50ba4.css.map": "/Danny2727/newportfolio/static/css/main.46a50ba4.css.map",
+    "main.a0d422a1.js.map": "/Danny2727/newportfolio/static/js/main.a0d422a1.js.map",
+    "787.35fe7324.chunk.js.map": "/Danny2727/newportfolio/static/js/787.35fe7324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a50ba4.css",
+    "static/js/main.a0d422a1.js"
+  ]
+}
